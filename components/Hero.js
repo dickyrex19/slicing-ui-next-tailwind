@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="container mx-auto px-10 2xl:px-0">
         <Navbar />
         <div className="text-center xl:mt-20 lg:mt-10 md:mt-6">
-          <h1 className="text-white text-3xl md:text-2xl font-semibold font-mono 2xl:w-6/12 xl:w-8/12 lg:w-10/12 mx-auto mb-5 leading-relaxed">
+          <h1 className="text-white text-3xl font-semibold font-mono 2xl:w-6/12 xl:w-8/12 lg:w-10/12 mx-auto mb-5 leading-relaxed">
             Saya seorang front-end engineer, back-end engineer, dan juga UI
             designer
           </h1>

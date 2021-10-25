@@ -4,7 +4,7 @@ import ProjectItem from "./ProjectItem";
 
 export default function ProjectsSection() {
   return (
-    <section className="py-28" id="projects">
+    <section className="py-20" id="projects">
       <div className="container mx-auto px-10 2xl:px-0">
         <SectionTitle>Projects</SectionTitle>
         <SectionParagraph>Beberapa proyek yang saya buat</SectionParagraph>

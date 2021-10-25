@@ -4,7 +4,7 @@ import SectionParagraph from "./SectionParagraph";
 
 export default function ProfileSection() {
   return (
-    <section className="py-28" id="profile">
+    <section className="py-20" id="profile">
       <div className="container mx-auto px-10 2xl:px-0">
         <SectionTitle>Profile</SectionTitle>
         <SectionParagraph>Mengenal saya secara singkat</SectionParagraph>

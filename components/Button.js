@@ -14,7 +14,7 @@ export default function Button({ href, className, variant, children, pill }) {
       href={href}
       className={classNames(
         "font-semibold text-lg py-3 px-10 inline-block cursor-pointer transition",
-        pill && `rounded-full`,
+        pill && "rounded-full",
         pickedVariant,
         className
       )}
